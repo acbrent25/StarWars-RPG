@@ -3,5 +3,5 @@ This Star Wars RPG features Javascript for logic, jQuery for DOM manipulation an
 
 App Link: <a href="https://acbrent25.github.io/StarWars-RPG/" target="_blank">Star Wars RPG</a>
 
-<img src="https://github.com/acbrent25/jQueryCarRace/blob/master/jquery%20race%20car%20game.gif?raw=true" alt="Star Wars RPG">
+<img src="https://github.com/acbrent25/StarWars-RPG/blob/master/star%20wars%20rpg.gif?raw=true" alt="Star Wars RPG">
 
